@@ -54,8 +54,8 @@ Data analyst specializing in technologies such as Python and statistical analysi
 </div>&nbsp;&nbsp;
 
  <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedrohenrique65&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-pedrohenrique65.vercel.app/api/top-langs/?username=pedrohenrique65&show_icons=true&theme=radical&layout=compact" />
+<img width=100% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedrohenrique65&theme=radical&mode=weekly" />
+
  </div>
  
  &nbsp;
